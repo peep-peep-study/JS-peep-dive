@@ -1,6 +1,9 @@
 # JS-peep-dive
 we study js !!🐣
 
+# index
+- [값, 식, 문](https://github.com/peep-peep-study/JS-peep-dive/wiki/%EA%B0%92,-%EC%8B%9D,-%EB%AC%B8)
+- [일급객체](https://github.com/peep-peep-study/JS-peep-dive/wiki/%EC%9D%BC%EA%B8%89%EA%B0%9D%EC%B2%B4)
 
 ## reference 
 - <a href="https://github.com/ssi02014/Front-Interview">reference1</a> 
