@@ -2,8 +2,22 @@
 we study js !!🐣
 
 ## index
+
+### 1주차 
+
 - [값, 식, 문](https://github.com/peep-peep-study/JS-peep-dive/wiki/%EA%B0%92,-%EC%8B%9D,-%EB%AC%B8)
 - [일급객체](https://github.com/peep-peep-study/JS-peep-dive/wiki/%EC%9D%BC%EA%B8%89%EA%B0%9D%EC%B2%B4)
+
+
+### 2주차 
+
+- [호이스팅](https://github.com/peep-peep-study/JS-peep-dive/wiki/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85)
+- [var,let,const](https://github.com/peep-peep-study/JS-peep-dive/wiki/var,-let,-const)
+
+### 3주차 
+
+- [실행컨텍스트](https://github.com/peep-peep-study/JS-peep-dive/wiki/%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)
+- [Scope](https://github.com/peep-peep-study/JS-peep-dive/wiki/Scope)
 
 ## reference 
 - <a href="https://github.com/ssi02014/Front-Interview">reference1</a> 
