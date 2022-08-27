@@ -26,6 +26,12 @@ we study js !!🐣
 
 - <a href="https://github.com/DopplerHQ/awesome-interview-questions">reference3</a>
 
+## members
+|샐리|태태|도리|소피아|호프|하리|무비|블링|유세지|
+|--|--|--|--|--|--|--|--|--|
+|[@liswktjs](https://github.com/liswktjs)|[@nan-noo](https://github.com/nan-noo)|[@prefer2](https://github.com/prefer2)|[@soyi47](https://github.com/soyi47)|[@moonheekim0118](https://github.com/moonheekim0118)|[@LAH1203](https://github.com/LAH1203)|[@byhhh2](https://github.com/byhhh2)|[@uk960214](https://github.com/uk960214)|[@usageness](https://github.com/usageness)
+
+- 1기
 
 |샐리|태태|도리|소피아|호프|하리|우연|위니|무비|티거|
 |--|--|--|--|--|--|--|--|--|--|
