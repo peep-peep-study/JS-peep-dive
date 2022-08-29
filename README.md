@@ -19,6 +19,11 @@ we study js !!🐣
 - [실행컨텍스트](https://github.com/peep-peep-study/JS-peep-dive/wiki/%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)
 - [Scope](https://github.com/peep-peep-study/JS-peep-dive/wiki/Scope)
 
+### 4주차
+
+- [클로저](https://github.com/peep-peep-study/JS-peep-dive/wiki/%ED%81%B4%EB%A1%9C%EC%A0%80)
+- [가비지컬렉션](https://github.com/peep-peep-study/JS-peep-dive/wiki/%EA%B0%80%EB%B9%84%EC%A7%80%EC%BB%AC%EB%A0%89%EC%85%98)
+
 ## reference 
 - <a href="https://github.com/ssi02014/Front-Interview">reference1</a> 
 
