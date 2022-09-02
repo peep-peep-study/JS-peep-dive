@@ -24,6 +24,12 @@ we study js !!🐣
 - [클로저](https://github.com/peep-peep-study/JS-peep-dive/wiki/%ED%81%B4%EB%A1%9C%EC%A0%80)
 - [가비지컬렉션](https://github.com/peep-peep-study/JS-peep-dive/wiki/%EA%B0%80%EB%B9%84%EC%A7%80%EC%BB%AC%EB%A0%89%EC%85%98)
 
+### 7주차
+
+- [모듈](https://github.com/peep-peep-study/JS-peep-dive/wiki/%EB%AA%A8%EB%93%88)
+- [모듈 번들러(웹팩)](https://github.com/peep-peep-study/JS-peep-dive/wiki/%EB%AA%A8%EB%93%88-%EB%B2%88%EB%93%A4%EB%9F%AC(%EC%9B%B9%ED%8C%A9)) 
+- [바벨](https://github.com/peep-peep-study/JS-peep-dive/wiki/%EB%B0%94%EB%B2%A8)
+
 ## reference 
 - <a href="https://github.com/ssi02014/Front-Interview">reference1</a> 
 
