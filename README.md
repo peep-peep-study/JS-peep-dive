@@ -32,15 +32,27 @@ we study js !!🐣
 
 ## reference 
 - <a href="https://github.com/ssi02014/Front-Interview">reference1</a> 
-
 - <a href="https://github.com/gyoogle/tech-interview-for-developer">reference2</a>
-
 - <a href="https://github.com/DopplerHQ/awesome-interview-questions">reference3</a>
 
 ## members
-|샐리|태태|도리|소피아|호프|하리|무비|블링|유세지|
-|--|--|--|--|--|--|--|--|--|
-|[@liswktjs](https://github.com/liswktjs)|[@nan-noo](https://github.com/nan-noo)|[@prefer2](https://github.com/prefer2)|[@soyi47](https://github.com/soyi47)|[@moonheekim0118](https://github.com/moonheekim0118)|[@LAH1203](https://github.com/LAH1203)|[@byhhh2](https://github.com/byhhh2)|[@uk960214](https://github.com/uk960214)|[@usageness](https://github.com/usageness)
+
+| 샐리                                                                                      | 태태                                                                                      | 도리                                                                                      |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| <img src="https://avatars.githubusercontent.com/u/60773373?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/54002105?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/67692759?v=4" width="100" height="100"> |
+|                                                                                           |
+| [@liswktjs](https://github.com/liswktjs)                                                  | [@nan-noo](https://github.com/nan-noo)                                                    | [@prefer2](https://github.com/prefer2)                                                    |
+
+| 소피아                                                                                    | 호프                                                                                      | 하리                                                                                      |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| <img src="https://avatars.githubusercontent.com/u/71116429?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/61469664?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/57928612?v=4" width="100" height="100"> |
+| [@soyi47](https://github.com/soyi47)                                                      | [@moonheekim0118](https://github.com/moonheekim0118)                                      | [@LAH1203](https://github.com/LAH1203)                                                    |
+
+| 무비                                                                                      | 블링                                                                                      | 유세지                                                                                    |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| <img src="https://avatars.githubusercontent.com/u/52737532?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/43166681?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/28296575?v=4" width="100" height="100"> |
+| [@byhhh2](https://github.com/byhhh2)                                                      | [@uk960214](https://github.com/uk960214)                                                  | [@usageness](https://github.com/usageness)                                                |
+
 
 - 1기
 
