@@ -24,6 +24,12 @@ we study js !!🐣
 - [클로저](https://github.com/peep-peep-study/JS-peep-dive/wiki/%ED%81%B4%EB%A1%9C%EC%A0%80)
 - [가비지컬렉션](https://github.com/peep-peep-study/JS-peep-dive/wiki/%EA%B0%80%EB%B9%84%EC%A7%80%EC%BB%AC%EB%A0%89%EC%85%98)
 
+### 5,6주차
+
+- [브라우저 렌더링](https://github.com/peep-peep-study/JS-peep-dive/wiki/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%A0%8C%EB%8D%94%EB%A7%81)
+- [이벤트 루프](https://github.com/peep-peep-study/JS-peep-dive/wiki/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84)
+- [이벤트 위임](https://github.com/peep-peep-study/JS-peep-dive/wiki/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%9C%84%EC%9E%84)
+
 ### 7주차
 
 - [모듈](https://github.com/peep-peep-study/JS-peep-dive/wiki/%EB%AA%A8%EB%93%88)
