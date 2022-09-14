@@ -46,7 +46,6 @@ we study js !!🐣
 | 샐리                                                                                      | 태태                                                                                      | 도리                                                                                      |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | <img src="https://avatars.githubusercontent.com/u/60773373?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/54002105?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/67692759?v=4" width="100" height="100"> |
-|                                                                                           |
 | [@liswktjs](https://github.com/liswktjs)                                                  | [@nan-noo](https://github.com/nan-noo)                                                    | [@prefer2](https://github.com/prefer2)                                                    |
 
 | 소피아                                                                                    | 호프                                                                                      | 하리                                                                                      |
@@ -54,10 +53,10 @@ we study js !!🐣
 | <img src="https://avatars.githubusercontent.com/u/71116429?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/61469664?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/57928612?v=4" width="100" height="100"> |
 | [@soyi47](https://github.com/soyi47)                                                      | [@moonheekim0118](https://github.com/moonheekim0118)                                      | [@LAH1203](https://github.com/LAH1203)                                                    |
 
-| 무비                                                                                      | 블링                                                                                      | 유세지                                                                                    |
-| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| <img src="https://avatars.githubusercontent.com/u/52737532?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/43166681?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/28296575?v=4" width="100" height="100"> |
-| [@byhhh2](https://github.com/byhhh2)                                                      | [@uk960214](https://github.com/uk960214)                                                  | [@usageness](https://github.com/usageness)                                                |
+| 무비                                                                                      | 블링                                                                                      | 유세지                                                                                    | 돔하디 | 
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------ | 
+| <img src="https://avatars.githubusercontent.com/u/52737532?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/43166681?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/28296575?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/51396282?v=4" width="100" height="100"> |
+| [@byhhh2](https://github.com/byhhh2)                                                      | [@uk960214](https://github.com/uk960214)                                                  | [@usageness](https://github.com/usageness)                                                | [@DomMorello](https://github.com/DomMorello) |
 
 
 - 1기
