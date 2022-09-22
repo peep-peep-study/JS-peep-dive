@@ -36,6 +36,12 @@ we study js !!🐣
 - [모듈 번들러(웹팩)](https://github.com/peep-peep-study/JS-peep-dive/wiki/%EB%AA%A8%EB%93%88-%EB%B2%88%EB%93%A4%EB%9F%AC(%EC%9B%B9%ED%8C%A9)) 
 - [바벨](https://github.com/peep-peep-study/JS-peep-dive/wiki/%EB%B0%94%EB%B2%A8)
 
+### 8주차
+
+- [프로미스](https://github.com/peep-peep-study/JS-peep-dive/wiki/Promise)
+- [제너레이터, 이터레이터](https://github.com/peep-peep-study/JS-peep-dive/wiki/Generator-&-Iterator)
+- [async, await](https://github.com/peep-peep-study/JS-peep-dive/wiki/Async-&-Await)
+
 ## reference 
 - <a href="https://github.com/ssi02014/Front-Interview">reference1</a> 
 - <a href="https://github.com/gyoogle/tech-interview-for-developer">reference2</a>
